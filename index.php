@@ -13,7 +13,8 @@
     </div>
     <div class="content">
       <?php
-      require_once("./pages/connexion.php");
+      require_once("./pages/connexion.php")
+      
       ?>
     </div>
 </body>
