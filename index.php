@@ -13,7 +13,10 @@
     </div>
     <div class="content">
       <?php
-      require_once("./pages/connexion.php")
+      session_start();
+      require_once("./traitements/fonctions.php");
+      require_once("./pages/connexion.php");
+      require_once("./pages/inscription.php");
       
       ?>
     </div>

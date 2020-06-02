@@ -20,6 +20,7 @@
    
     <button type="submit" class="btn-form" name="" id=""> Connexion</button>
     <button type="submit" class="btn-form2" name="" id=""> S'inscrire pour jouer</button>
+    <a href="./pages/inscription.php">inscription</a>
     
  
 </div>
